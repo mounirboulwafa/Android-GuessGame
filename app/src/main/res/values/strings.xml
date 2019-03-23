@@ -1,6 +1,12 @@
 <resources>
-    <string name="app_name">Guess Game</string>
+    <string name="app_name">Deviner Mon Nombre</string>
     <string name="Value_sup">Votre Valeur est Superieur</string>
     <string name="Value_inf">Votre Valeur est Inferieurs</string>
     <string name="Value_win">Vous avez Gangner</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="oui">Oui</string>
+    <string name="quitter">Quitter</string>
+    <string name="Devinez">Tentatives</string>
+    <string name="score">Score</string>
+    <string name="guess">Devinez</string>
 </resources>

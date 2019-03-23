@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess My Number</string>
+    <string name="guess">Guess</string>
+    <string name="score">Score</string>
+    <string name="Devinez">Turns Left</string>
+    <string name="quitter">EXIT</string>
+    <string name="oui">YES</string>
+    <string name="rejouer">PLAY AGAIN</string>
+    <string name="Value_win">You Won</string>
+    <string name="Value_inf">your guess is too low</string>
+    <string name="Value_sup">your guess is too high</string>
+</resources>
